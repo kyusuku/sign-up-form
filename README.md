@@ -11,15 +11,14 @@ Sign-Up Form is a browser-based user registration form created as part of my jou
 
 ## Try It Out
 
-👉 You can view and interact with the Sign-Up Form here: [Live Demo]
+👉 You can view and interact with the Sign-Up Form here: [Sign-up Form](https://kyusuku.github.io/sign-up-form/) 
 
 ## Features
 
 - 🖊️ **User Input Fields:** Collects first name, last name, email, phone number, and password.
 - 🎨 **Modern Styling:** Uses CSS for a clean and structured design.
 - 🔄 **Interactive Feedback:** Highlights invalid fields in red for better user experience.
-- ❌ **No JavaScript Validation:** The form does not enforce password matching or other JavaScript-based validations.
-- 📏 **Fixed Layout:** The design is not responsive and is optimized for desktop view only.
+- 📏 **Fixed Layout:** Optimized for desktop view only.
 
 ## Technologies Used
 
@@ -39,7 +38,6 @@ This project was built with the following objectives:
 
 - 🏗 **HTML Form Creation:** Structuring form elements properly.
 - 🎨 **CSS Styling:** Applying visually appealing designs.
-- 📏 **Fixed Layout Design:** Optimized for desktop view only.
 
 ## Future Improvements
 
