@@ -11,7 +11,7 @@ Sign-Up Form is a browser-based user registration form created as part of my jou
 
 ## Try It Out
 
-👉 You can view and interact with the Sign-Up Form here: [Live Demo]
+👉 You can view and interact with the Sign-Up Form here: [Sign-up Form](https://kyusuku.github.io/sign-up-form/) 
 
 ## Features
 
