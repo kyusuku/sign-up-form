@@ -119,12 +119,19 @@ button {
     margin-bottom: 30px;
 }
 
+button:hover {
+    background-color: #3d4e32;
+}
+
 p {
     font-weight: 550;
 }
 
-p span {
+p a {
     color: #596D48;
+    cursor: pointer;
 }
 
-
+p a:hover {
+    color: #3d4e32;
+}
